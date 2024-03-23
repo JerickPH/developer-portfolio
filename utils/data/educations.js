@@ -1,20 +1,20 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    title: "College Level",
+    duration: "2014 - 2017",
+    institution: "Christ the King College de Maranding",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    title: "Secondary Education",
+    duration: "2007 - 2011",
+    institution: "Santa Teresita Academy",
   },
   {
     id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
+    title: "Primary Education",
+    duration: "2001 - 2007",
+    institution: "Margos Elementary School",
   }
 ]
